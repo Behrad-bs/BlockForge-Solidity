@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "makesum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "sum",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/syntax/Function/4.sol": "MODOFIER"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/syntax/Function/4.sol": {
+			"keccak256": "0xaa19a2bc71dfdd1673bbb739d11a5610d052c0c9d073d71ccff2349779ef1fdd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b076563099a00c7de114dd54301c1f1c691235179dea3c6acdb89e7f39b5cc0f",
+				"dweb:/ipfs/QmUJUtwt8eBNyECahc8m2xAjB5YHzPqTbk8jD48gsURrUA"
+			]
+		}
+	},
+	"version": 1
+}

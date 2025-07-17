@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "status1",
+				"outputs": [
+					{
+						"internalType": "enum ENUMERATOR.projectstatus",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "status2",
+				"outputs": [
+					{
+						"internalType": "enum ENUMERATOR.projectstatus",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/start syntax/5.sol": "ENUMERATOR"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/start syntax/5.sol": {
+			"keccak256": "0xd7e339e7779859de433278fd41d9330962f1a5e954d5891a4691122db8fd070d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5899e8b527b6e4d7a30808c2e57e6e448b414939ad0ea5d153345cbd2b7099db",
+				"dweb:/ipfs/QmSs1P3AqwQaTZrgZt8Ho4XbsYCbSoEjKoDEQvwgsq4NMx"
+			]
+		}
+	},
+	"version": 1
+}
